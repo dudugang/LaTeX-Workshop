@@ -1167,7 +1167,7 @@
     {
       "captures": {
         "0": {
-          "name": "support.function.item.latex"
+          "name": "keyword.other.item.latex"
         },
         "1": {
           "name": "punctuation.definition.keyword.latex"
